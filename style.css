@@ -1,0 +1,11 @@
+body {
+    background: #fcd5ce;
+  } 
+
+  h1 {
+      color: #6b705c;
+      line-height: 2em;
+      text-shadow: 10px;
+      font-size: 10rem;
+      font-style: italic;
+  }
